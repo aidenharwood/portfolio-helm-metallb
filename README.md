@@ -1,3 +1,3 @@
-# portfolio-helm-website
+# portfolio-helm-metallb
 
-A simple personal portfolio website built with Helm and deployed on Kubernetes.
+A simple helm repo for metallb config
